@@ -1,6 +1,6 @@
-#Series
-##The Witcher
-##Legacies
-##Roda do Tempo
-##Supernatural
-##Hannibal
+Series
+The Witcher
+Legacies
+Roda do Tempo
+Supernatural
+Hannibal
